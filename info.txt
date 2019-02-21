@@ -1,3 +1,7 @@
 Name: Daeniel Fornea
 
 Age: 19
+
+Hobbies: Playign computer games
+
+Course: Chemical Engineering
